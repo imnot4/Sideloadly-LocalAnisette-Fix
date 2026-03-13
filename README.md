@@ -6,6 +6,11 @@ Fixes common Sideloadly errors like:
 - `Local Anisette init err`
 - `Failed to load ...\an\libxml2.dll`
 
+[![Download latest release](https://img.shields.io/github/v/release/imnot4/Sideloadly-LocalAnisette-Fix?label=Download%20latest%20release)](https://github.com/imnot4/Sideloadly-LocalAnisette-Fix/releases/latest)
+
+Latest release page:
+https://github.com/imnot4/Sideloadly-LocalAnisette-Fix/releases/latest
+
 ## Quick Start
 
 1. Extract the zip to any folder.

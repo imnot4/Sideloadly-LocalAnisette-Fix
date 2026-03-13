@@ -6,6 +6,11 @@
 - `Local Anisette init err`
 - `Failed to load ...\an\libxml2.dll`
 
+[![Скачать последний релиз](https://img.shields.io/github/v/release/imnot4/Sideloadly-LocalAnisette-Fix?label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D1%80%D0%B5%D0%BB%D0%B8%D0%B7)](https://github.com/imnot4/Sideloadly-LocalAnisette-Fix/releases/latest)
+
+Страница последнего релиза:
+https://github.com/imnot4/Sideloadly-LocalAnisette-Fix/releases/latest
+
 ## Быстрый старт
 
 1. Распакуйте архив в любую папку.
