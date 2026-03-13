@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "allow_dismiss": true,
+  "title": "Support Sideloadly Local Anisette Fix",
+  "message": "Repair completed successfully.\nIf this tool solved your issue, you can support future updates.\n\nИсправление успешно завершено.\nЕсли инструмент решил вашу проблему, можете поддержать дальнейшие обновления.",
+  "url": "https://boosty.to/not4/donate",
+  "dismiss_prompt": "Hide this support popup on this PC?\n\nСкрыть это окно поддержки на этом ПК?"
+}
